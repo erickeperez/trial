@@ -1,0 +1,18 @@
+self.__RSC_CSS_MANIFEST={
+  "cssImports": {
+    "/Users/erick/Desktop/devProjects/trial/src/app/page.js": [
+      "/Users/erick/Desktop/devProjects/trial/src/app/page.module.css"
+    ],
+    "/Users/erick/Desktop/devProjects/trial/src/app/layout.js": [
+      "/Users/erick/Desktop/devProjects/trial/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "/Users/erick/Desktop/devProjects/trial/src/app/globals.css"
+    ]
+  },
+  "cssModules": {
+    "/Users/erick/Desktop/devProjects/trial/src/app/page": [
+      "/Users/erick/Desktop/devProjects/trial/src/app/page.module.css",
+      "/Users/erick/Desktop/devProjects/trial/src/app/globals.css",
+      "/Users/erick/Desktop/devProjects/trial/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ]
+  }
+}
